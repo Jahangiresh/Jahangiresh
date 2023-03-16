@@ -38,17 +38,14 @@
 
 ### About 📌
 
-### ✔  **Domain :** Full-Stack Web Development 💻
-### ✔  **Skills :** Javascript, ReactJs, Vue.js, Angular, MongoDB, Mysql, Node.js, PHP, .NET Core, Python
-### ✔  **Hobbies :**  Read 📕, Music 🎧
+### ✔  **Domain :** Mern-Stack Web Development 💻
+### ✔  **Skills :** Javascript, ReactJs, Angular, TypeScript, Next, TailWind css, Sass, MongoDB, Node.js, PHP, 
+### ✔  **Hobbies :**  Rave 🎧, Joga bonito  ⚽
 <hr>
 
-### Total Profile Views :detective: 
-<img src="https://profile-counter.glitch.me/gustavosoriano/count.svg" />
 
 <hr>
 
 ```
 Turning challenges into opportunities
 ```
-![image](https://github.com/gustavoSoriano/gustavosoriano/blob/master/dino.gif)
