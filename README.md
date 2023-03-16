@@ -1,5 +1,5 @@
 <h1>Hello, I'm Jahangir 🙋‍♂️</h1>
-<h2>💻👨‍💻Software engineer</h2>
+<p>💻👨‍💻Software engineer</p>
 
 <hr>
 
