@@ -1,7 +1,6 @@
 <h1>Hello, I'm Jahangir 🙋‍♂️</h1>
 <p>💻👨‍💻Software engineer</p>
 
-<hr>
 
 
 
