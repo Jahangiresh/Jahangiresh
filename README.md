@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GitLab%20-%23F7DF1E.svg?&style=for-the-badge&color=FC6D26" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AWS%20-%23F7DF1E.svg?&style=for-the-badge&color=547bab" />&nbsp;&nbsp;
+
 <hr>
 
 ### About 📌
